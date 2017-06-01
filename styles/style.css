@@ -1,0 +1,31 @@
+.square{
+	display: inline-block;
+	width: 58px;
+	height: 58px;
+	background: #0099ff;
+	border: 1px solid #000;
+	vertical-align: top;
+}
+
+#container{
+	margin: 0 auto;
+	text-align: center;
+}
+
+#grid-holder{
+	margin: 0 auto;
+	width: 960px;
+}
+
+.grid-row{
+	clear: both;
+	display: block;
+}
+
+.red{
+	background-color: #ff0000;
+}
+
+#nav{
+	text-align: center;
+}

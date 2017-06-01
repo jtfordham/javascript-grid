@@ -1,0 +1,1 @@
+This project creates a grid within a 960px space.  It illustrates an understanding of jquery events, mouseenter, mouseleave, and click. 
